@@ -1,0 +1,78 @@
+Nov 14 06:24:45 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Startup MESSAGE: Thor Version: 10.5.6 SCANID: S-m6ivqavcWa0
+Nov 14 06:24:45 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Startup MESSAGE: Thor Build: 25d3257 (2020-10-02 15:19:46) SCANID: S-m6ivqavcWa0
+Nov 14 06:24:45 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Startup MESSAGE: Run on system: MT-W7-Base SCANID: S-m6ivqavcWa0
+Nov 14 06:24:45 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Startup MESSAGE: Running as user: MT-W7-BASE\MjolnirTraining SCANID: S-m6ivqavcWa0
+Nov 14 06:24:45 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Startup MESSAGE: Netbios Domain: MT-W7-BASE SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Startup MESSAGE: User has admin rights: no SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Notice: MODULE: Startup MESSAGE: THOR should be started 'As Administrator' to have full access to files, process memory and the security eventlog SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Startup MESSAGE: Working Directory: C:\Users\MjolnirTraining\Desktop\thor10lite-win-pack SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Startup MESSAGE: Thor Scan started SCANID: S-m6ivqavcWa0 TIME: Sat Nov 14 01:24:46 2020 HOSTNAME: MT-W7-Base
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Startup MESSAGE: Argument List: ["C:\\Users\\MjolnirTraining\\Desktop\\thor10lite-win-pack\\thor64-lite.exe"] SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Startup MESSAGE: Platform: Windows 7 Professional SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Startup MESSAGE: Platform DeepEval SCANID: S-m6ivqavcWa0 NAME: Windows 7 Professional TYPE: Multiprocessor Free VERSION: 6.1 PROC: Intel64 Family 6 Model 61 Stepping 4 ARCH: AMD64
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Startup MESSAGE: Language: en-US, Zone: EST SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Startup MESSAGE: System Uptime: 0.06 days SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Startup MESSAGE: CPU Count: 2 SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Startup MESSAGE: Memory in Megabyte: 8191 SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Startup MESSAGE: Signature Database: 2020/10/02-142929 SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Startup MESSAGE: Successfully compiled 0 false positive filters SCANID: S-m6ivqavcWa0 TYPE: log filter
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Startup MESSAGE: Writing report file to: MT-W7-Base_thor_2020-11-14_0124.txt SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Startup MESSAGE: Writing csv report file to: MT-W7-Base_files_md5s.csv SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Startup MESSAGE: No json report file will be written SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Startup MESSAGE: Writing html report file to: MT-W7-Base_thor_2020-11-14_0124.html SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Startup MESSAGE: Syslog Export: off SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Startup MESSAGE: ScanID: S-m6ivqavcWa0 SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Startup MESSAGE: System is not a domain controller SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Max. file size to be scanned is 12.0 MB, use --max_file_size to increase the limit SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Selected modules: ServiceCheck, Autoruns, EnvCheck, Filescan, Firewall, Hosts, LoggedIn, OpenFiles, ProcessCheck, UserDir, Users, AtJobs, DNSCache, Eventlog, Events, HotfixCheck, LSASessions, Mutex, NetworkSessions, NetworkShares, Pipes, RegistryChecks, Rootkit, SHIMCache, ScheduledTasks, WMIStartup SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Deselected modules: DeepDive, Dropzone, MFT SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Selected features: SignalHandler, CPULimit, FilenameIOCs, KeywordIOCs, Yara, CheckString, Rescontrol, Amcache, Stix, ArchiveScan, Archive, AtJobs, Bifrost2, C2, DoublePulsar, EVTX, ExeDecompress, Timestomp, WMIPersistence, GroupsXML, Lnk, LogScan, Prefetch, SHIMCache, TeamViewer, RegistryHive, VulnerabilityCheck, WER, Filescan, ProcessConnections, WebdirScan, ProcessHandles, ThorDB SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Deselected features: Action, Bifrost, DumpScan, Sigma SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: System Type: Workstation SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: License file found SCANID: S-m6ivqavcWa0 LICENSE: C:\Users\MjolnirTraining\Desktop\thor10lite-win-pack\g_sakhawat-outlook.com.lic OWNER: sakhawat hossain (g_sakhawat@outlook.com) TYPE: Lite STARTS: 2020/11/03 EXPIRES: 2021/11/11 SCANNER: THOR Lite VALID: true REASON: 
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Notice: MODULE: Init MESSAGE: Some modules and features are not available in Lite version and will be disabled SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling module UserDir due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling module Users due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling module AtJobs due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling module Eventlog due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling module Events due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling module LSASessions due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling module NetworkSessions due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling module Pipes due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling module ScheduledTasks due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling module WMIStartup due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling module EnvCheck due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling module Firewall due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling module LoggedIn due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling module DNSCache due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling module HotfixCheck due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling module Mutex due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling module RegistryChecks due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling module SHIMCache due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling module Rootkit due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling module ServiceCheck due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling module Hosts due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling module OpenFiles due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:46 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling module NetworkShares due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:47 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling feature Bifrost2 due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:47 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling feature ExeDecompress due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:47 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling feature GroupsXML due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:47 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling feature Amcache due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:47 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling feature SignalHandler due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:47 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling feature ArchiveScan due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:47 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling feature Archive due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:47 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling feature Prefetch due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:47 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling feature TeamViewer due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:47 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling feature Stix due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:47 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling feature DoublePulsar due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:47 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling feature EVTX due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:47 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling feature VulnerabilityCheck due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:47 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling feature WebdirScan due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:47 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling feature Timestomp due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:47 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling feature WMIPersistence due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:47 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling feature Lnk due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:47 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling feature SHIMCache due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:47 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling feature AtJobs due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:47 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling feature RegistryHive due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:47 MT-W7-Base/127.0.0.1 THOR: Info: MODULE: Init MESSAGE: Disabling feature WER due to Lite version SCANID: S-m6ivqavcWa0
+Nov 14 06:24:47 MT-W7-Base/127.0.0.1 THOR: Error: MODULE: Init MESSAGE: THOR already running. Use --nodoublecheck to ignore this SCANID: S-m6ivqavcWa0

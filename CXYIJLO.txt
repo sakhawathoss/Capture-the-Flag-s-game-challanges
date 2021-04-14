@@ -1,0 +1,13 @@
+rule Ryuk_EtuRifr {
+       meta:
+               description = "Detects EtuRifr.exe of RYUK ransomeware"
+               author = "Sakahwat"
+       strings:
+              $s1 = "vssadmin Delete Shadows /all /quiet" ascii wide
+              $s2 = "vssadmin resize shadowstorage" ascii wide
+              $s3 = "vssadmin Delete Shadows /all /quiet"
+              $s4 = "protonmail.com"
+       conditions:
+              all of them
+
+}
